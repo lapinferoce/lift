@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/eric/devel/IsUp/}default-5f27d6...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/lapinferoce/devel/scala/lift/}default-126529...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: net.liftweb#isup_2.10;0.0.1[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, container][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -1336,7 +1336,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies net.liftweb#isup_2.10;0.0.1->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [container->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies net.liftweb#isup_2.10;0.0.1->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [container->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies net.liftweb#isup_2.10;0.0.1->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [container->master][0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/eric/devel/IsUp/target/resolution-cache/net.liftweb/isup_2.10/0.0.1/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/net.liftweb/isup_2.10/0.0.1/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.liftweb#lift-webkit_2.10;2.5.1!lift-webkit_2.10.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.liftmodules#lift-jquery-module_2.5_2.10;2.4!lift-jquery-module_2.5_2.10.jar[0m
@@ -1373,19 +1373,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2-scalaz-concurrent_2.10;7.0.0!specs2-scalaz-concurrent_2.10.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#scalaz-effect_2.10;7.0.0!scalaz-effect_2.10.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#scalaz-core_2.10;7.0.0!scalaz-core_2.10.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 4538ms :: artifacts dl 223ms[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 compile produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 runtime produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 test produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 provided produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 optional produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 compile-internal produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 runtime-internal produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 test-internal produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 plugin produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 sources produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 docs produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 pom produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 container produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup_2.10-container.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (4538ms resolve - 223ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 480ms :: artifacts dl 21ms[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 compile produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 runtime produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 test produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 provided produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 optional produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 compile-internal produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 runtime-internal produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 test-internal produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 plugin produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 sources produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 docs produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 pom produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for net.liftweb#isup_2.10;0.0.1 container produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup_2.10-container.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (480ms resolve - 21ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

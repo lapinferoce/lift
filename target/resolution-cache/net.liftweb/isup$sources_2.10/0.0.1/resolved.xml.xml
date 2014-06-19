@@ -4,7 +4,7 @@
 		module="isup$sources_2.10"
 		revision="0.0.1"
 		status="integration"
-		publication="20140617103644"
+		publication="20140619121537"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
@@ -132,7 +132,7 @@
 		<dependency org="org.scala-sbt" name="precompiled-2_10_1" rev="0.12.4" transitive="false" conf="default->default(compile)">
 			<artifact name="precompiled-2_10_1" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
-		<dependency org="org.jetbrains" name="sbt-structure" rev="2.4.0" transitive="false" conf="default->default(compile)" sbtVersion="0.12" scalaVersion="2.9.2">
+		<dependency org="org.jetbrains" name="sbt-structure" rev="2.3.2" transitive="false" conf="default->default(compile)" sbtVersion="0.12" scalaVersion="2.9.2">
 			<artifact name="sbt-structure" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
 		<dependency org="com.earldouglas" name="xsbt-web-plugin" rev="0.3.0" transitive="false" conf="default->default(compile)" sbtVersion="0.12" scalaVersion="2.9.2">

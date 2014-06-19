@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for net.liftweb#isup$sources_javadoc_2.10;0.0.1 [compile]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27695991
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68180cd4
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.0
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.0
 [debug] 	found org.scala-lang#scala-library;2.10.0 in sbt-chain
@@ -15,7 +15,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-webkit_2.10;2.5.1 [compile->default(compile)]
 [info] Resolving net.liftweb#lift-webkit_2.10;2.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@517352d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25494fc
 [debug] sbt-chain: module revision found in cache: net.liftweb#lift-webkit_2.10;2.5.1
 [debug] 	local: revision in cache: net.liftweb#lift-webkit_2.10;2.5.1
 [debug] 	found net.liftweb#lift-webkit_2.10;2.5.1 in sbt-chain
@@ -24,7 +24,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-webkit_2.10;2.5.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-util_2.10;2.5.1 [compile->default(compile)]
 [info] Resolving net.liftweb#lift-util_2.10;2.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10cd61f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3846837c
 [debug] sbt-chain: module revision found in cache: net.liftweb#lift-util_2.10;2.5.1
 [debug] 	local: revision in cache: net.liftweb#lift-util_2.10;2.5.1
 [debug] 	found net.liftweb#lift-util_2.10;2.5.1 in sbt-chain
@@ -33,7 +33,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-util_2.10;2.5.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-actor_2.10;2.5.1 [compile->default(compile)]
 [info] Resolving net.liftweb#lift-actor_2.10;2.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cf59bb9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49867870
 [debug] sbt-chain: module revision found in cache: net.liftweb#lift-actor_2.10;2.5.1
 [debug] 	local: revision in cache: net.liftweb#lift-actor_2.10;2.5.1
 [debug] 	found net.liftweb#lift-actor_2.10;2.5.1 in sbt-chain
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-actor_2.10;2.5.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-common_2.10;2.5.1 [compile->default(compile)]
 [info] Resolving net.liftweb#lift-common_2.10;2.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2be28dd3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12901eaa
 [debug] sbt-chain: module revision found in cache: net.liftweb#lift-common_2.10;2.5.1
 [debug] 	local: revision in cache: net.liftweb#lift-common_2.10;2.5.1
 [debug] 	found net.liftweb#lift-common_2.10;2.5.1 in sbt-chain
@@ -51,7 +51,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-common_2.10;2.5.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@568cd010
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1553558d
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.2
 [debug] 	local: revision in cache: org.slf4j#slf4j-api;1.7.2
 [debug] 	found org.slf4j#slf4j-api;1.7.2 in sbt-chain
@@ -60,7 +60,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.slf4j#slf4j-api;1.7.2 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-json_2.10;2.5.1 [compile->default(compile)]
 [info] Resolving net.liftweb#lift-json_2.10;2.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@395e73e7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d883798
 [debug] sbt-chain: module revision found in cache: net.liftweb#lift-json_2.10;2.5.1
 [debug] 	local: revision in cache: net.liftweb#lift-json_2.10;2.5.1
 [debug] 	found net.liftweb#lift-json_2.10;2.5.1 in sbt-chain
@@ -69,7 +69,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftweb#lift-json_2.10;2.5.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scalap;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@203d32d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b54afba
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.10.0
 [debug] 	local: revision in cache: org.scala-lang#scalap;2.10.0
 [debug] 	found org.scala-lang#scalap;2.10.0 in sbt-chain
@@ -78,7 +78,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scalap;2.10.0 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-compiler;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62886874
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35e3f426
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.0
 [debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.10.0
 [debug] 	found org.scala-lang#scala-compiler;2.10.0 in sbt-chain
@@ -87,7 +87,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-compiler;2.10.0 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-reflect;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@757a2e50
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d296aa3
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.0
 [debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.0
 [debug] 	found org.scala-lang#scala-reflect;2.10.0 in sbt-chain
@@ -96,7 +96,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-reflect;2.10.0 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->com.thoughtworks.paranamer#paranamer;2.4.1 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53381762
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4af310b3
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.4.1
 [debug] 	local: revision in cache: com.thoughtworks.paranamer#paranamer;2.4.1
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.4.1 in sbt-chain
@@ -105,7 +105,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->com.thoughtworks.paranamer#paranamer;2.4.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->joda-time#joda-time;2.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ecd58e1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@518d550
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.1
 [debug] 	local: revision in cache: joda-time#joda-time;2.1
 [debug] 	found joda-time#joda-time;2.1 in sbt-chain
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->joda-time#joda-time;2.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.joda#joda-convert;1.2 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@414bdaa1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@430fe248
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.2
 [debug] 	local: revision in cache: org.joda#joda-convert;1.2
 [debug] 	found org.joda#joda-convert;1.2 in sbt-chain
@@ -123,7 +123,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.joda#joda-convert;1.2 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->commons-codec#commons-codec;1.6 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76677710
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f9985cb
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.6
 [debug] 	local: revision in cache: commons-codec#commons-codec;1.6
 [debug] 	found commons-codec#commons-codec;1.6 in sbt-chain
@@ -132,7 +132,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->commons-codec#commons-codec;1.6 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->javax.mail#mail;1.4.4 [compile->default(compile)]
 [info] Resolving javax.mail#mail;1.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@308e9153
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3be67824
 [debug] sbt-chain: module revision found in cache: javax.mail#mail;1.4.4
 [debug] 	local: revision in cache: javax.mail#mail;1.4.4
 [debug] 	found javax.mail#mail;1.4.4 in sbt-chain
@@ -141,7 +141,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->javax.mail#mail;1.4.4 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->javax.activation#activation;1.1 [compile->default(compile)]
 [info] Resolving javax.activation#activation;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@555e801
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f139f74
 [debug] sbt-chain: module revision found in cache: javax.activation#activation;1.1
 [debug] 	local: revision in cache: javax.activation#activation;1.1
 [debug] 	found javax.activation#activation;1.1 in sbt-chain
@@ -150,7 +150,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->javax.activation#activation;1.1 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->nu.validator.htmlparser#htmlparser;1.4 [compile->default(compile)]
 [info] Resolving nu.validator.htmlparser#htmlparser;1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3da6c232
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d7a4ab
 [debug] sbt-chain: module revision found in cache: nu.validator.htmlparser#htmlparser;1.4
 [debug] 	local: revision in cache: nu.validator.htmlparser#htmlparser;1.4
 [debug] 	found nu.validator.htmlparser#htmlparser;1.4 in sbt-chain
@@ -159,7 +159,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->nu.validator.htmlparser#htmlparser;1.4 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->commons-fileupload#commons-fileupload;1.2.2 [compile->default(compile)]
 [info] Resolving commons-fileupload#commons-fileupload;1.2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ba32ce8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62f479ee
 [debug] sbt-chain: module revision found in cache: commons-fileupload#commons-fileupload;1.2.2
 [debug] 	local: revision in cache: commons-fileupload#commons-fileupload;1.2.2
 [debug] 	found commons-fileupload#commons-fileupload;1.2.2 in sbt-chain
@@ -168,7 +168,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->commons-fileupload#commons-fileupload;1.2.2 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-actors;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-actors;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@191316f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c80dddf
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-actors;2.10.0
 [debug] 	local: revision in cache: org.scala-lang#scala-actors;2.10.0
 [debug] 	found org.scala-lang#scala-actors;2.10.0 in sbt-chain
@@ -177,7 +177,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.scala-lang#scala-actors;2.10.0 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftmodules#lift-jquery-module_2.5_2.10;2.4 [compile->default(compile)]
 [info] Resolving net.liftmodules#lift-jquery-module_2.5_2.10;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68b3d292
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c3c8a6b
 [debug] sbt-chain: module revision found in cache: net.liftmodules#lift-jquery-module_2.5_2.10;2.4
 [debug] 	local: revision in cache: net.liftmodules#lift-jquery-module_2.5_2.10;2.4
 [debug] 	found net.liftmodules#lift-jquery-module_2.5_2.10;2.4 in sbt-chain
@@ -186,7 +186,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->net.liftmodules#lift-jquery-module_2.5_2.10;2.4 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->ch.qos.logback#logback-classic;1.0.6 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e6ea7bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24df9745
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.0.6
 [debug] 	local: revision in cache: ch.qos.logback#logback-classic;1.0.6
 [debug] 	found ch.qos.logback#logback-classic;1.0.6 in sbt-chain
@@ -195,7 +195,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->ch.qos.logback#logback-classic;1.0.6 [compile->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->ch.qos.logback#logback-core;1.0.6 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64ee64f1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10d589c8
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.0.6
 [debug] 	local: revision in cache: ch.qos.logback#logback-core;1.0.6
 [debug] 	found ch.qos.logback#logback-core;1.0.6 in sbt-chain
@@ -651,7 +651,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->ch.qos.logback#logback-core;1.0.6 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-webapp;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-webapp;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@125ddf1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f95450
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-webapp;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-webapp;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-webapp;8.1.7.v20120910 in sbt-chain
@@ -660,7 +660,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-webapp;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-xml;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-xml;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6685657
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15c6d619
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-xml;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-xml;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-xml;8.1.7.v20120910 in sbt-chain
@@ -669,7 +669,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-xml;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-util;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-util;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5609277d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28bcc977
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-util;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-util;8.1.7.v20120910 in sbt-chain
@@ -678,7 +678,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-util;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-servlet;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-servlet;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4563a650
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2722df44
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-servlet;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-servlet;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-servlet;8.1.7.v20120910 in sbt-chain
@@ -687,7 +687,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-servlet;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-security;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-security;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e4fa23a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61b234f0
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-security;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-security;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-security;8.1.7.v20120910 in sbt-chain
@@ -696,7 +696,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-security;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-server;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-server;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5599ea12
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c9fc16d
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-server;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-server;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-server;8.1.7.v20120910 in sbt-chain
@@ -705,7 +705,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-server;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d6ed9cb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@561be79e
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	local: revision in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
@@ -714,7 +714,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-continuation;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-continuation;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b284266
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@524bf8bd
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-continuation;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-continuation;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-continuation;8.1.7.v20120910 in sbt-chain
@@ -723,7 +723,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-continuation;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-http;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-http;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59fdb908
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54d4e391
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-http;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-http;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-http;8.1.7.v20120910 in sbt-chain
@@ -732,7 +732,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-http;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-io;8.1.7.v20120910 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-io;8.1.7.v20120910 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69e7187d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b3e5c73
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;8.1.7.v20120910
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-io;8.1.7.v20120910
 [debug] 	found org.eclipse.jetty#jetty-io;8.1.7.v20120910 in sbt-chain
@@ -741,7 +741,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-io;8.1.7.v20120910 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#specs2_2.10;1.14 [test->default(compile)]
 [info] Resolving org.specs2#specs2_2.10;1.14 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5510808f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a34a69c
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2_2.10;1.14
 [debug] 	local: revision in cache: org.specs2#specs2_2.10;1.14
 [debug] 	found org.specs2#specs2_2.10;1.14 in sbt-chain
@@ -750,7 +750,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#specs2_2.10;1.14 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#specs2-scalaz-core_2.10;7.0.0 [test->default(compile)]
 [info] Resolving org.specs2#specs2-scalaz-core_2.10;7.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1671998a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bfc3437
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-scalaz-core_2.10;7.0.0
 [debug] 	local: revision in cache: org.specs2#specs2-scalaz-core_2.10;7.0.0
 [debug] 	found org.specs2#specs2-scalaz-core_2.10;7.0.0 in sbt-chain
@@ -759,7 +759,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#specs2-scalaz-core_2.10;7.0.0 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#specs2-scalaz-concurrent_2.10;7.0.0 [test->default(compile)]
 [info] Resolving org.specs2#specs2-scalaz-concurrent_2.10;7.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64287c39
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dcf619a
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-scalaz-concurrent_2.10;7.0.0
 [debug] 	local: revision in cache: org.specs2#specs2-scalaz-concurrent_2.10;7.0.0
 [debug] 	found org.specs2#specs2-scalaz-concurrent_2.10;7.0.0 in sbt-chain
@@ -768,7 +768,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#specs2-scalaz-concurrent_2.10;7.0.0 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#scalaz-effect_2.10;7.0.0 [test->default(compile)]
 [info] Resolving org.specs2#scalaz-effect_2.10;7.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33403bdf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b5c9567
 [debug] sbt-chain: module revision found in cache: org.specs2#scalaz-effect_2.10;7.0.0
 [debug] 	local: revision in cache: org.specs2#scalaz-effect_2.10;7.0.0
 [debug] 	found org.specs2#scalaz-effect_2.10;7.0.0 in sbt-chain
@@ -777,7 +777,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#scalaz-effect_2.10;7.0.0 [test->master]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.specs2#scalaz-core_2.10;7.0.0 [test->default(compile)]
 [info] Resolving org.specs2#scalaz-core_2.10;7.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@164b2375
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@569f64ed
 [debug] sbt-chain: module revision found in cache: org.specs2#scalaz-core_2.10;7.0.0
 [debug] 	local: revision in cache: org.specs2#scalaz-core_2.10;7.0.0
 [debug] 	found org.specs2#scalaz-core_2.10;7.0.0 in sbt-chain
@@ -1767,7 +1767,7 @@
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-io;8.1.7.v20120910 [container->runtime]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-io;8.1.7.v20120910 [container->compile]
 [debug] == resolving dependencies net.liftweb#isup$sources_javadoc_2.10;0.0.1->org.eclipse.jetty#jetty-io;8.1.7.v20120910 [container->master]
-[debug] 	resolved ivy file produced in /home/eric/devel/IsUp/target/resolution-cache/net.liftweb/isup$sources_javadoc_2.10/0.0.1/resolved.xml.xml
+[debug] 	resolved ivy file produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/net.liftweb/isup$sources_javadoc_2.10/0.0.1/resolved.xml.xml
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.0!scala-library.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.0!scala-library.jar(src)
@@ -1876,18 +1876,18 @@
 [debug] 	[NOT REQUIRED] org.specs2#scalaz-core_2.10;7.0.0!scalaz-core_2.10.jar
 [debug] 	[NOT REQUIRED] org.specs2#scalaz-core_2.10;7.0.0!scalaz-core_2.10.jar(doc)
 [debug] 	[NOT REQUIRED] org.specs2#scalaz-core_2.10;7.0.0!scalaz-core_2.10.jar(src)
-[debug] :: resolution report :: resolve 6404ms :: artifacts dl 865ms
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 compile produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-compile.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 runtime produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-runtime.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 test produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-test.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 provided produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-provided.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 optional produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-optional.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 compile-internal produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-compile-internal.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 runtime-internal produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-runtime-internal.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 test-internal produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-test-internal.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 plugin produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-plugin.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 sources produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-sources.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 docs produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-docs.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 pom produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-pom.xml
-[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 container produced in /home/eric/devel/IsUp/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-container.xml
-[debug] 	resolve done (6404ms resolve - 865ms download)
+[debug] :: resolution report :: resolve 442ms :: artifacts dl 268ms
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 compile produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-compile.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 runtime produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-runtime.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 test produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-test.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 provided produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-provided.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 optional produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-optional.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 compile-internal produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-compile-internal.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 runtime-internal produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-runtime-internal.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 test-internal produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-test-internal.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 plugin produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-plugin.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 sources produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-sources.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 docs produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-docs.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 pom produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-pom.xml
+[debug] 	report for net.liftweb#isup$sources_javadoc_2.10;0.0.1 container produced in /home/lapinferoce/devel/scala/lift/target/resolution-cache/reports/net.liftweb-isup$sources_javadoc_2.10-container.xml
+[debug] 	resolve done (442ms resolve - 268ms download)

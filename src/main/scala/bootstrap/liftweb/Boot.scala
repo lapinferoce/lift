@@ -10,6 +10,7 @@ import sitemap._
 import Loc._
 import net.liftmodules.JQueryModule
 import net.liftweb.http.js.jquery._
+import code.rest.RestPony
 
 
 /**
@@ -21,10 +22,16 @@ class Boot {
     // where to search snippet
     LiftRules.addToPackages("code")
 
+    LiftRules.dispatch.append(RestPony) // stateful — associated with a servlet container session
+    LiftRules.statelessDispatchTable.append(RestPony) // stateless — no session created
     // Build SiteMap
     val entries = List(
       Menu.i("Home") / "index", // the simple way to declare a menu
-      Menu.i("Main") / "main", // the simple way to declare a menu
+      Menu.i("Pony 1") / "pony_dev", // the simple way to declare a menu
+      Menu.i("Pony 2") / "pony", // the simple way to declare a menu
+      Menu.i("Pony Angular") / "pony-angular", // angular way !!
+      Menu.i("Pony Angular 2") / "pony-angular-better", // angular better way !!
+
       // more complex because this menu allows anything in the
       // /static path to be visible
       Menu(Loc("Static", Link(List("static"), true, "/static/index"), 

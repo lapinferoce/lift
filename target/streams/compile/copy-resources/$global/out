@@ -1,4 +1,4 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/home/eric/devel/IsUp/src/main/resources/props,/home/eric/devel/IsUp/target/scala-2.10/classes/props)[0m
-[0m[[0mdebug[0m] [0m	(/home/eric/devel/IsUp/src/main/resources/logback.xml,/home/eric/devel/IsUp/target/scala-2.10/classes/logback.xml)[0m
-[0m[[0mdebug[0m] [0m	(/home/eric/devel/IsUp/src/main/resources/props/default.props,/home/eric/devel/IsUp/target/scala-2.10/classes/props/default.props)[0m
+[0m[[0mdebug[0m] [0m	(/home/lapinferoce/devel/scala/lift/src/main/resources/props,/home/lapinferoce/devel/scala/lift/target/scala-2.10/classes/props)[0m
+[0m[[0mdebug[0m] [0m	(/home/lapinferoce/devel/scala/lift/src/main/resources/logback.xml,/home/lapinferoce/devel/scala/lift/target/scala-2.10/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/lapinferoce/devel/scala/lift/src/main/resources/props/default.props,/home/lapinferoce/devel/scala/lift/target/scala-2.10/classes/props/default.props)[0m

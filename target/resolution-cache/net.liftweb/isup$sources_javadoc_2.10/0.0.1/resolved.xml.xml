@@ -4,7 +4,7 @@
 		module="isup$sources_javadoc_2.10"
 		revision="0.0.1"
 		status="integration"
-		publication="20140617103647"
+		publication="20140619121537"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
